@@ -1,0 +1,27 @@
+{
+  "ano": "9º Ano",
+  "disciplina": "Língua Portuguesa",
+  "temas": [
+    {
+      "1": "Procedimentos de Leitura",
+      "descritores": [
+        { "D1": "Localizar informações explícitas em um texto." },
+        { "D3": "Inferir o sentido de uma palavra ou expressão" }
+      ]
+    },
+    {
+      "1": "Implicações do Suporte, do Gênero e/ou do Enunciador na Compreensão do Texto",
+      "descritores": [
+        {
+          "D5": "Interpretar texto com auxílio de material gráfico diverso (propagandas, quadrinhos, foto etc.)."
+        }
+      ]
+    }
+  ],
+  "distribuicao": [
+    {
+      "1": "Procedimentos de leitura",
+      "descritores": [{ "1": "D1", "2": "D2" }]
+    }
+  ]
+}

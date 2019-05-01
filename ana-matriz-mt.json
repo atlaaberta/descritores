@@ -1,0 +1,23 @@
+{
+  "eixos": [
+    {
+      "eixo": "EIXO NUMÉRICO E ALGÉBRICO",
+      "habilidades": [
+        {
+          "H1": "Associar a contagem de coleções de objetos à representação numérica das suas respectivas quantidades",
+          "especificacoes": [
+            {
+              "1": "Contar agrupamentos de até 20 objetos dispostos: de forma organizada; de forma desorganizada; agrupados de 2 em 2, de 3 em 3, de 4 em 4, de 5 em 5 e 10 em 10."
+            },
+            {
+              "2": "Contar agrupamentos de mais de 20 objetos agrupados de 2 em 2, de 3 em 3, de 4 em 4, de 5 em 5 e 10 em 10 (com limite numérico de 200)."
+            }
+          ]
+        },
+        {
+          "H2": "Associar a denominação do número a sua respectiva representação simbólica"
+        }
+      ]
+    }
+  ]
+}
