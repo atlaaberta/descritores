@@ -1,0 +1,19 @@
+{
+  "ano": "5º Ano",
+  "disciplina": "Matemática",
+  "temas": [
+    {
+      "1": "Procedimentos de Leitura",
+      "descritores": [
+        { "D1": "Localizar informações explícitas em um texto." },
+        { "D3": "Inferir o sentido de uma palavra ou expressão" }
+      ]
+    }
+  ],
+  "distribuicao": [
+    {
+      "1": "Procedimentos de leitura",
+      "descritores": [{ "1": "D1", "2": "D2" }]
+    }
+  ]
+}
