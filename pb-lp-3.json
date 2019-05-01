@@ -1,6 +1,6 @@
 {
-  "ano": "9º Ano",
-  "nivel": "Ensino Fundamental 2",
+  "ano": "3º Ano",
+  "nivel": "Ensino Médio",
   "disciplina": "Língua Portuguesa",
   "temas": [
     {
@@ -18,7 +18,7 @@
       "2": "Implicações do Suporte, do Gênero e/ou do Enunciador na Compreensão do Texto",
       "descritores": [
         { "D5": "Interpretar texto com auxílio de material gráfico diverso (propagandas, quadrinhos, foto etc.)." },
-        { "D12": "Identificar a finalidade de textos de diferentes gêneros." }
+        { "D12": "Identificar a finalidade de textos de diferentes gêneros." },
       ]
     },
 
@@ -96,3 +96,5 @@
   ]
 }
 
+  
+  
